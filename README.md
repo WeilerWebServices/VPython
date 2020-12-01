@@ -1,4 +1,4 @@
-![VPython](VPython.pn)
+![VPython](VPython.png)
 
 # VPython
 
